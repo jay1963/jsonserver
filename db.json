@@ -6,10 +6,10 @@
       "delivery_note_no": "DN07275-2",
       "request_delivery_date": "2017-12-13T00:00:00Z",
       "delivery_date": "2017-12-13T00:00:00Z",
-      "address": "",
+      "address": "Top Famous Construction Engineering",
       "company_name": "Top Famous Construction Engineering Limited",
       "contact_person": "",
-      "phone": "",
+      "phone": "323232",
       "total_amount": 0,
       "currency": "HKD",
       "rate": 1,
@@ -21,7 +21,7 @@
       "supplier_payment_request_date": "2018-01-10T00:00:00Z",
       "supplier_payment_confirm_date": "0001-01-01T00:00:00Z",
       "remark": "",
-      "status": 0
+      "status": 1
     },
     {
       "sale_contract_id": 60,
@@ -29,10 +29,10 @@
       "delivery_note_no": "DN07306",
       "request_delivery_date": "2017-12-20T00:00:00Z",
       "delivery_date": "2017-12-20T00:00:00Z",
-      "address": "",
+      "address": "Gold Success Construction Engineering",
       "company_name": "Gold Success Construction Engineering Limited",
       "contact_person": "",
-      "phone": "",
+      "phone": "12312312",
       "total_amount": 0,
       "currency": "HKD",
       "rate": 1,
@@ -44,7 +44,7 @@
       "supplier_payment_request_date": "0001-01-01T00:00:00Z",
       "supplier_payment_confirm_date": "0001-01-01T00:00:00Z",
       "remark": "",
-      "status": 0
+      "status": 1
     }
   ]
 }
